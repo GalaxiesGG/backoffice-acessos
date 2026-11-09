@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .env
 .venv/
+
+# Claude Code (settings locais podem conter segredos)
+.claude/
